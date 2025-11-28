@@ -18,7 +18,7 @@
 
 | 链接 | 描述 | 详情页 |
 | :--- | :--- | :----- |
-| [Foxbox](https://github.com/YardRat0117/foxbox) | 基于 Podman / Docker 的 CLI 工具，提供封装、可复现的容器化开发环境 | [Readme 文档](https://github.com/YardRat0117/foxbox/blob/main/README_zh.md) \| [本站文档 (TODO)](assets/foxbox.md)|
+| [Foxbox](https://github.com/YardRat0117/foxbox) | 基于 Podman / Docker 的 CLI 工具，提供封装、可复现的容器化开发环境 | [Readme 文档](https://github.com/YardRat0117/foxbox/blob/main/README_zh.md) \| [本站文档](assets/foxbox.md)|
 
 ## 课程相关项目示例
 
