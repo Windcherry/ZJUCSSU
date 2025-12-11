@@ -19,6 +19,15 @@ cards:
         class: tag-category
       - text: 活动
         class: tag-priority
+
+  - ddl: 2025-12-10
+    title: 计算机学院新晚暖场照片&视频素材征集
+    detail: 2026年计算机学院新晚暖场照片&视频素材征集，欢迎同学们积极投递！
+    href:  https://mp.weixin.qq.com/s/-eRdQSmkqNYi9PnZ2_whZA
+    tags:
+      - text: 新年晚会
+        class: tag-category
+
 ---
 
 !!! note 通知
@@ -30,3 +39,5 @@ cards:
 {% import 'macros/card_macro.html' as card_macro %}
 
 {{ card_macro.render_cards(cards) }}
+
+
