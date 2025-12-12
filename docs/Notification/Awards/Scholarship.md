@@ -21,6 +21,15 @@ cards1:
       - text: 助学金
         class: tag-priority        
 
+  - ddl: 2025-12-13
+    title: 积加本科生实践奖学金拟评选名单
+    detail: 关于公示2024-2025学年计算机学院积加本科生实践奖学金拟评选名单的通知
+    href: http://cspo.zju.edu.cn/2025/1211/c27183a3118195/page.htm
+    tags:
+      - text: 奖学金
+        class: tag-category
+      - text: 本科生
+        class: tag-target
 ---
 
 !!! note 通知

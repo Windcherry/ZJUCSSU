@@ -1,14 +1,14 @@
 ---
 
 cards:
-
-- title: 全国大学外语等级考试考前温馨提醒
+  - ddl: 2025-12-13
+    title: 全国大学外语等级考试考前温馨提醒
     detail: 关于注意事项和时间线，通知推文见箭头
-    href: <https://mp.weixin.qq.com/s/h1Wm3e_UABqP3AXPE5mLKQ>
+    href: https://mp.weixin.qq.com/s/h1Wm3e_UABqP3AXPE5mLKQ
     tags:
-  - text: 英语
+      - text: 英语
         class: tag-category
-  - text: 四级六级
+      - text: 四级六级
         class: tag-category
 
 ---
@@ -21,4 +21,4 @@ cards:
 
 {% import 'macros/card_macro.html' as card_macro %}
 
-{{ card_macro.render_cards(cards) }}
+{{ card_macro.render_cards(cards)}}
