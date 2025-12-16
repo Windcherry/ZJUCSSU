@@ -1,14 +1,14 @@
 ---
 cards:
   - ddl: 
-    title: 2025-2026学年秋冬学期本科课程选课（包括暑假短学期课程）第一轮
-    detail: 开始时间：5月23日9：00-5月25日24：00
-    href:  https://bksy.zju.edu.cn/2025/0519/c28418a3052207/page.htm
-    tags:
+    title: 2025-2026学年春夏学期本科课程选课通知（第一轮）
+    detail: 开始时间：12月19日9：00-12月21日24：00，选课结果可在12月23日晚查看，请严格按照规定时间和选课要求进行，学校选课具体通知请戳箭头
+    href: https://zdbk.zju.edu.cn/jwglxt/xtgl/xwgl_ckXw.html?xwbh=45CB04918EC7F96EE06329B3CA0AA7E8&doType=save
+    tags: 
       - text: 选课
         class: tag-category
-      - text: 紧急
-        class: tag-priority
+      - text: 重要
+        class: tag-priority 
 ---
 
 !!! note 通知
