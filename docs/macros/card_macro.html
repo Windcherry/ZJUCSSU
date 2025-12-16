@@ -1,10 +1,21 @@
 {% macro render_cards(cards) %}
-{% for item in cards|sort(attribute='ddl', reverse=True) %}
+{% set cards_with_ddl = [] %}
+{% set cards_without_ddl = [] %}
+{% for item in cards %}
+{% if item.ddl %}
+{% set _ = cards_with_ddl.append(item) %}
+{% else %}
+{% set _ = cards_without_ddl.append(item) %}
+{% endif %}
+{% endfor %}
+{% for item in cards_with_ddl|sort(attribute='ddl', reverse=True) + cards_without_ddl %}
 <div class='card'>
   <div class="dot"></div>
   <div class="snapshot">
     <div class="title">{{ item.title }}</div>
-    <div class="deadline" data-deadline="{{ item.ddl }}"></div>
+    {% if item.ddl %}
+        <div class="deadline" data-deadline="{{ item.ddl }}"></div>
+    {% endif %}
     {% if item.tags %}
     <div class="card-tags">
       {% for tag in item.tags %}

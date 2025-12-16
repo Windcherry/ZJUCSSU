@@ -9,6 +9,25 @@ cards:
         class: tag-category
       - text: 活动
         class: tag-priority
+
+  - ddl: 2025-12-12
+    title: 【形策2】形策放映室：现场观看电影《南京照相馆》
+    detail: 活动时间 2025年12月12日 15:00-17:00 地点：浙江大学玉泉校区曹光彪东楼502 记为一次形策2 报名链接见箭头
+    href:  https://form.zju.edu.cn/#/dform/genericForm/Ko4dKBu5
+    tags:
+      - text: 形策2
+        class: tag-category
+      - text: 活动
+        class: tag-priority
+
+  - ddl: 2025-12-10
+    title: 计算机学院新晚暖场照片&视频素材征集
+    detail: 2026年计算机学院新晚暖场照片&视频素材征集，欢迎同学们积极投递！
+    href:  https://mp.weixin.qq.com/s/-eRdQSmkqNYi9PnZ2_whZA
+    tags:
+      - text: 新年晚会
+        class: tag-category
+
 ---
 
 !!! note 通知
@@ -20,3 +39,5 @@ cards:
 {% import 'macros/card_macro.html' as card_macro %}
 
 {{ card_macro.render_cards(cards) }}
+
+
