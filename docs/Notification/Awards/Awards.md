@@ -97,10 +97,25 @@ cards:
   - ddl: 2026-05-07
     title: ​关于评选2026年“朋辈学业辅导之星”和“朋辈学业辅导优秀团队”的通知
     detail: 获评校级劳动类荣誉称号可加学年标兵评选中劳动实践分数，请符合条件有意愿的同学积极参与报名~【报名的同学填写对应附件，5月7日前钉钉发送给赵宇飞老师】通知链接在右侧
-    href: http://www.xgb.zju.edu.cn/2026/0417/c53018a3152899/page.psp
+    href: http://www.xgb.zju.edu.cn/2026/0417/c53018a3152899/page.psp  
+  - ddl: 2026-04-23
+    title: 关于申请2026年第一批爱心基金学生专项基金补助的通知
+    detail: 官网通知见箭头
+    href: http://cspo.zju.edu.cn/2026/0413/c27184a3150441/page.htm
     tags:
-      - text: 评奖评优
+      - text: 资助
         class: tag-category
+  - ddl: 2026-05-08
+    title: 关于申请2026年浙江大学永平留学贷学金项目（总第20期）的通知
+    detail: 官网通知见箭头
+    href: http://www.zuef.zju.edu.cn/index.php/webSite/webColumn/showarticle/6165.html?column_id=29
+    tags:
+      - text: 贷学金
+        class: tag-category
+      - text: 留学
+        class: tag-category
+      - text: 2022级
+        class: tag-target
 ---
 
 !!! note 通知
