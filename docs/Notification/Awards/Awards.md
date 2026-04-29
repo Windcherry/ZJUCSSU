@@ -116,6 +116,27 @@ cards:
         class: tag-category
       - text: 2022级
         class: tag-target
+  - ddl: 2026-04-30
+    title: 关于浙江大学计算机科学与技术学院第十三次学生代表大会代表名单的公示
+    detail: 官网通知见箭头
+    href: http://cspo.zju.edu.cn/2026/0427/c27186a3156415/page.htm
+    tags:
+      - text: 学代会
+        class: tag-category
+  - ddl: 2026-04-30
+    title: 关于公示计算机科学与技术学院学生会第十三届主席团候选人名单的通知
+    detail: 官网通知见箭头
+    href: http://cspo.zju.edu.cn/2026/0428/c27186a3156560/page.htm
+    tags:
+      - text: 学生会
+        class: tag-category
+  - ddl: 2026-05-09
+    title: 【勤工助学】关于评选2026年浙江大学“勤工助学之星”“勤工助学优秀团队”的通知
+    detail: 如有意向申报请于5月9日前将附件1的事迹材料、附件4的汇总表发送至邮箱0025728@zju.edu.cn，邮件命名：姓名+勤工助学之星）
+    href: http://www.xgb.zju.edu.cn/2026/0428/c53414a3156566/page.psp
+    tags: 
+      - text: 勤工助学
+        class: tag-category
 ---
 
 !!! note 通知

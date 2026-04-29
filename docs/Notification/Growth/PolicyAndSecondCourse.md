@@ -174,6 +174,13 @@ cards:
     tags:
       - text: 文体活动
         class: tag-category
+  - ddl: 2026-05-17
+    title: 飞盘三好杯正式招募
+    detail: 计算机飞盘三好杯，等你加入！右侧为群二维码
+    href: /home/Notification/Growth/image/20260428Ultimate.png
+    tags:
+      - text: 文体活动
+        class: tag-category
 
 ---
 
