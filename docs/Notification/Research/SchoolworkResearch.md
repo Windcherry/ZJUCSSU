@@ -76,6 +76,13 @@ cards:
     tags:
       - text: 考研
         class: tag-category
+  - ddl: 2026-05-05
+    title: Vibeathon奇绩创业探索赛
+    detail: 奇绩创业Vibeathon由浙江大学启真交叉学科创新创业实验室、清华大学学生创业协会、Delta X迭代未来与奇绩创坛共同发起。在两周内的深度创业探索活动中，通过结构化的探索路径，找到既符合你自身热爱与擅长、又具备高价值的创业方向。报名时间：4月21日-5月5日决赛时间：5月22日，将在浙江大学举行第一场决赛！
+    href: https://mp.weixin.qq.com/s/dgRqM183X2yDwgHw_CeVNA
+    tags:
+      - text: 竞赛
+        class: tag-category
 ---
 
 !!! note 通知

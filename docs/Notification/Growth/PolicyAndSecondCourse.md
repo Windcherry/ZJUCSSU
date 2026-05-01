@@ -174,7 +174,20 @@ cards:
     tags:
       - text: 文体活动
         class: tag-category
-
+  - ddl: 2026-05-15
+    title: 三好杯体育舞蹈比赛计算机学院代表队开始招募
+    detail: 当代码的逻辑遇上舞步的韵律，当键盘的敲击化作鼓点的节拍——三好杯体育舞蹈比赛计算机学院代表队开始招募！这里没有 bug，只有节拍；这里不调参数，只调舞姿；这里不 debug 程序，只 debug 你尘封已久的活力！请有意向报名的同学于5月15号之前填写报名表并进钉钉群，如有报名双人项目且有搭档的同学，均需填写报名表且进群，进群之后私信负责人说明搭档；亦可进入钉钉群中寻找舞伴，开启一段独特的体育舞蹈之旅
+    href: https://form.zju.edu.cn/#/dform/genericForm/xBVZDlNk
+    tags:
+      - text: 文体活动
+        class: tag-category
+  - ddl: 2026-05-30
+    title: 计算机学院5月心理健康月
+    detail: 来给你的心灵充个电 | 计算机学院5月心理健康月活动来袭
+    href: https://form.zju.edu.cn/#/dform/genericForm/xBVZDlNk
+    tags:
+      - text: 心理
+        class: tag-category
 ---
 
 !!! note 通知
