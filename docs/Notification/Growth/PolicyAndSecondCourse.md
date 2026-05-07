@@ -196,6 +196,27 @@ cards:
     tags:
       - text: 心理
         class: tag-category
+  - ddl: 2026-06-17
+    title: 第三期压力应对效能提升六周团体沙盘小组正在招募成员
+    detail: 各位同学们好，「安放、对话、生长」：第三期压力应对效能提升六周团体沙盘小组正在招募成员。地点在紫金港银泉学生服务中心，时间自5月13日起至6月17日止，由心理中心专业师资带领体验心理沙盘，感兴趣的同学可以报名参加~
+    href: http://www.xlzx.zju.edu.cn/2026/0506/c55627a3158534/page.htm
+    tags:
+      - text: 心理
+        class: tag-category
+  - ddl: 2026-05-14
+    title: 校史知识竞赛
+    detail: 校史文化节丨校史知识竞赛上线，邀你赴一场时光之约！完成初赛线上并上传截图即可获得形策2一分
+    href: https://mp.weixin.qq.com/s/KDLQ4wp5p6OAtXMijdMbuQ
+    tags:
+      - text: 形策2
+        class: tag-category
+  - ddl: 2026-05-10
+    title:  积极心理学相关学习视频
+    detail: 观看并于5月10日前提交300字以上学习心得可获得形策2一分
+    href: https://form.zju.edu.cn/#/dform/genericForm/5iasItNc
+    tags:
+      - text: 心理
+        class: tag-category
 ---
 
 !!! note 通知

@@ -83,6 +83,20 @@ cards:
     tags:
       - text: 竞赛
         class: tag-category
+  - ddl: 2026-06-12
+    title: 有关2026年人工智能综合能力提升培训工作的通知
+    detail: 为深入贯彻落实党的二十大和二十届历次全会精神及全国教育大会精神，落实《教育强国建设规划纲要（2024-2035年）》关于促进人工智能助力教育变革的有关要求，进一步提高大学生数字素养和人工智能应用水平，支撑大学生核心竞争力提升，现教育部开展2026年人工智能综合能力提升培训工作。
+    href: https://higher.smartedu.cn/ai2026
+    tags:
+      - text: 培训
+        class: tag-category
+  - ddl: 2026-05-24
+    title: 关于组织2026届毕业生及延毕学生体质健康测试补测工作的通知
+    detail: 关于组织2026届毕业生及延毕学生体质健康测试补测工作的通知
+    href: https://mp.weixin.qq.com/s/LAFyW1W87vvNbMSQEjMCdA
+    tags:
+      - text: 体测
+        class: tag-category
 ---
 
 !!! note 通知
