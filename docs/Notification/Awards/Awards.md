@@ -144,6 +144,23 @@ cards:
     tags: 
       - text: 校园明星
         class: tag-category
+  
+  - ddl: 
+    title: 计算机学院第十七届 “校园明星” 评选活动
+    detail: 学院将对获得计算机学院“校园明星”荣誉称号的优秀学生进行表彰；推荐免试研究生资格评审中可按相应板块加分；优先推荐参评竺可桢奖学金、十佳大学生，优先申请 “1+2”“2+2” 推免项目。欢迎各位同学积极参评，绽放青春光彩！
+    href: http://cspo.zju.edu.cn/2026/0507/c27183a3159404/page.htm
+    tags: 
+      - text: 校园明星
+        class: tag-category
+      - text: 评奖评优
+        class: tag-category
+  - ddl:
+    title: 浙江大学计算机科学与技术学院学生会第十三届主席团成员名单公示
+    detail: 学院第十三次学代会圆满落幕，感谢各位代表、同学的支持配合！投票结果已发布院网
+    href: http://cspo.zju.edu.cn/2026/0511/c27186a3160802/page.htm
+    tags:
+      - text: 学代会
+        class: tag-category
 ---
 
 !!! note 通知

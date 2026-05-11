@@ -30,6 +30,14 @@ cards1:
         class: tag-category
       - text: 本科生
         class: tag-target
+  
+  - ddl: 2026-05-13
+    title: 关于做好2026-2027学年第一批学费补助工作的通知
+    detail: 符合条件且有需要的同学请在【5月13日前在eta申请】，详情见右侧链接
+    href: http://www.xgb.zju.edu.cn/2026/0501/c53018a3158235/page.psp
+    tags: 
+      - text: 助学金
+        class: tag-category
 ---
 
 !!! note 通知
