@@ -97,9 +97,52 @@ cards:
   - ddl: 2026-05-07
     title: ​关于评选2026年“朋辈学业辅导之星”和“朋辈学业辅导优秀团队”的通知
     detail: 获评校级劳动类荣誉称号可加学年标兵评选中劳动实践分数，请符合条件有意愿的同学积极参与报名~【报名的同学填写对应附件，5月7日前钉钉发送给赵宇飞老师】通知链接在右侧
-    href: http://www.xgb.zju.edu.cn/2026/0417/c53018a3152899/page.psp
+    href: http://www.xgb.zju.edu.cn/2026/0417/c53018a3152899/page.psp  
+  - ddl: 2026-04-23
+    title: 关于申请2026年第一批爱心基金学生专项基金补助的通知
+    detail: 官网通知见箭头
+    href: http://cspo.zju.edu.cn/2026/0413/c27184a3150441/page.htm
     tags:
-      - text: 评奖评优
+      - text: 资助
+        class: tag-category
+  - ddl: 2026-05-08
+    title: 关于申请2026年浙江大学永平留学贷学金项目（总第20期）的通知
+    detail: 官网通知见箭头
+    href: http://www.zuef.zju.edu.cn/index.php/webSite/webColumn/showarticle/6165.html?column_id=29
+    tags:
+      - text: 贷学金
+        class: tag-category
+      - text: 留学
+        class: tag-category
+      - text: 2022级
+        class: tag-target
+  - ddl: 2026-04-30
+    title: 关于浙江大学计算机科学与技术学院第十三次学生代表大会代表名单的公示
+    detail: 官网通知见箭头
+    href: http://cspo.zju.edu.cn/2026/0427/c27186a3156415/page.htm
+    tags:
+      - text: 学代会
+        class: tag-category
+  - ddl: 2026-04-30
+    title: 关于公示计算机科学与技术学院学生会第十三届主席团候选人名单的通知
+    detail: 官网通知见箭头
+    href: http://cspo.zju.edu.cn/2026/0428/c27186a3156560/page.htm
+    tags:
+      - text: 学生会
+        class: tag-category
+  - ddl: 2026-05-09
+    title: 【勤工助学】关于评选2026年浙江大学“勤工助学之星”“勤工助学优秀团队”的通知
+    detail: 如有意向申报请于5月9日前将附件1的事迹材料、附件4的汇总表发送至邮箱0025728@zju.edu.cn，邮件命名：姓名+勤工助学之星）
+    href: http://www.xgb.zju.edu.cn/2026/0428/c53414a3156566/page.psp
+    tags: 
+      - text: 勤工助学
+        class: tag-category
+  - ddl: 2026-05-13
+    title: 计算机学院第十七届 “校园明星” 评选活动
+    detail: 想成为闪耀校园的超级新星吗？想让你的独特光芒照亮整个学院吗？计算机学院第十七届 “校园明星” 评选活动火热开启！本次评选聚焦多元发展，无论你是学术大牛、公益达人，还是文体活动的 “隐藏高手”，在这里都有专属于你的舞台，快来展示你的风采，成为令人瞩目的校园明星吧！学院将对获得计算机学院“校园明星”荣誉称号的优秀学生进行表彰；推荐免试研究生资格评审中可按相应板块加分；优先推荐参评竺可桢奖学金、十佳大学生，优先申请 “1+2”“2+2” 推免项目。欢迎各位同学积极参评，绽放青春光彩！
+    href: http://cspo.zju.edu.cn/2026/0507/c27183a3159404/page.htm
+    tags: 
+      - text: 校园明星
         class: tag-category
   
   - ddl: 

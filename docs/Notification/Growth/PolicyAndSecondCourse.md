@@ -174,7 +174,49 @@ cards:
     tags:
       - text: 文体活动
         class: tag-category
+  - ddl: 2026-05-17
+    title: 飞盘三好杯正式招募
+    detail: 计算机飞盘三好杯，等你加入！右侧为群二维码
+    href: /home/Notification/Growth/image/20260428Ultimate.png
+    tags:
+      - text: 文体活动
+        class: tag-category
 
+  - ddl: 2026-05-15
+    title: 三好杯体育舞蹈比赛计算机学院代表队开始招募
+    detail: 当代码的逻辑遇上舞步的韵律，当键盘的敲击化作鼓点的节拍——三好杯体育舞蹈比赛计算机学院代表队开始招募！这里没有 bug，只有节拍；这里不调参数，只调舞姿；这里不 debug 程序，只 debug 你尘封已久的活力！请有意向报名的同学于5月15号之前填写报名表并进钉钉群，如有报名双人项目且有搭档的同学，均需填写报名表且进群，进群之后私信负责人说明搭档；亦可进入钉钉群中寻找舞伴，开启一段独特的体育舞蹈之旅
+    href: https://form.zju.edu.cn/#/dform/genericForm/xBVZDlNk
+    tags:
+      - text: 文体活动
+        class: tag-category
+  - ddl: 2026-05-30
+    title: 计算机学院5月心理健康月
+    detail: 来给你的心灵充个电 | 计算机学院5月心理健康月活动来袭
+    href: https://form.zju.edu.cn/#/dform/genericForm/xBVZDlNk
+    tags:
+      - text: 心理
+        class: tag-category
+  - ddl: 2026-06-17
+    title: 第三期压力应对效能提升六周团体沙盘小组正在招募成员
+    detail: 各位同学们好，「安放、对话、生长」：第三期压力应对效能提升六周团体沙盘小组正在招募成员。地点在紫金港银泉学生服务中心，时间自5月13日起至6月17日止，由心理中心专业师资带领体验心理沙盘，感兴趣的同学可以报名参加~
+    href: http://www.xlzx.zju.edu.cn/2026/0506/c55627a3158534/page.htm
+    tags:
+      - text: 心理
+        class: tag-category
+  - ddl: 2026-05-14
+    title: 校史知识竞赛
+    detail: 校史文化节丨校史知识竞赛上线，邀你赴一场时光之约！完成初赛线上并上传截图即可获得形策2一分
+    href: https://mp.weixin.qq.com/s/KDLQ4wp5p6OAtXMijdMbuQ
+    tags:
+      - text: 形策2
+        class: tag-category
+  - ddl: 2026-05-10
+    title:  积极心理学相关学习视频
+    detail: 观看并于5月10日前提交300字以上学习心得可获得形策2一分
+    href: https://form.zju.edu.cn/#/dform/genericForm/5iasItNc
+    tags:
+      - text: 心理
+        class: tag-category
 ---
 
 !!! note 通知

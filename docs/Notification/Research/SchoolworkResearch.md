@@ -62,6 +62,41 @@ cards:
     tags:
       - text: 联合培养项目
         class: tag-category
+  - ddl: 2026-04-23
+    title: 人工智能学院（北京中关村学院、上海创智学院、深圳河套学院）招生宣讲会
+    detail: 人工智能学院（北京中关村学院、上海创智学院、深圳河套学院）招生宣讲会将于2026年4月23日（下周四）下午举办，活动内容包括学院介绍、政策宣讲、互动答疑等，感兴趣的同学请提前扫码报名。时间：2026年4月23日（下周四）下午18:30.地点：研究生教育综合楼107
+    href: https://www.wjx.top/vm/mAtGDwf.aspx
+    tags:
+      - text: 招生宣讲
+        class: tag-category
+  - ddl: 2026-04-24
+    title: 考研自习室介绍 & 备考规划分享会
+    detail: 目前新一轮考研自习室已正式投入使用。为助力同学们高效备考、理清复习思路、科学规划全年备考节奏，一支部计划本周五晚举办考研备考规划分享会。本次活动将会介绍考研自习室相关安排，也邀请了王道老师进行全程备考规划指导，同时邀请两位上岸学长亲临分享备考干货与上岸经验，诚挚欢迎所有意向考研的同学踊跃参与！
+    href: https://jsj.top/f/AfcPbH
+    tags:
+      - text: 考研
+        class: tag-category
+  - ddl: 2026-05-05
+    title: Vibeathon奇绩创业探索赛
+    detail: 奇绩创业Vibeathon由浙江大学启真交叉学科创新创业实验室、清华大学学生创业协会、Delta X迭代未来与奇绩创坛共同发起。在两周内的深度创业探索活动中，通过结构化的探索路径，找到既符合你自身热爱与擅长、又具备高价值的创业方向。报名时间：4月21日-5月5日决赛时间：5月22日，将在浙江大学举行第一场决赛！
+    href: https://mp.weixin.qq.com/s/dgRqM183X2yDwgHw_CeVNA
+    tags:
+      - text: 竞赛
+        class: tag-category
+  - ddl: 2026-06-12
+    title: 有关2026年人工智能综合能力提升培训工作的通知
+    detail: 为深入贯彻落实党的二十大和二十届历次全会精神及全国教育大会精神，落实《教育强国建设规划纲要（2024-2035年）》关于促进人工智能助力教育变革的有关要求，进一步提高大学生数字素养和人工智能应用水平，支撑大学生核心竞争力提升，现教育部开展2026年人工智能综合能力提升培训工作。
+    href: https://higher.smartedu.cn/ai2026
+    tags:
+      - text: 培训
+        class: tag-category
+  - ddl: 2026-05-24
+    title: 关于组织2026届毕业生及延毕学生体质健康测试补测工作的通知
+    detail: 关于组织2026届毕业生及延毕学生体质健康测试补测工作的通知
+    href: https://mp.weixin.qq.com/s/LAFyW1W87vvNbMSQEjMCdA
+    tags:
+      - text: 体测
+        class: tag-category
 ---
 
 !!! note 通知

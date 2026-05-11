@@ -41,6 +41,13 @@ cards:
       - text: 2022级
         class: tag-target
       - text: 西部计划宣讲会
+        class: tag-target、
+  - ddl: 2026-04-24
+    title: 某部委人才选拔
+    detail: 各位同学好！某部委面向我院相关专业2027届本科生或硕士研究生提前选拔相关人才，有意向报名的同学请于4月24日中午12点前填写问卷
+    href: https://jsj.top/f/VQSFOW 
+    tags:
+      - text: 就业
         class: tag-target
 ---
 
