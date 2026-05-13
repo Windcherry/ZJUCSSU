@@ -63,6 +63,13 @@ cards:
     tags:      
       - text: 毕业晚会        
         class: tag-category
+  - ddl: 2026-5-15
+    title: 健康咨询志愿者招募
+    detail: 紫金港校区古籍馆前，要求认真负责，服从安排，一旦录用不随意退出，本次活动按照实际工作时长认定志愿小时数
+    href:https://v.wjx.cn/vm/ex3Ref6.aspx#
+    tags:      
+      - text: 志愿者活动
+        class: tag-category
 ---
 
 !!! note 通知
