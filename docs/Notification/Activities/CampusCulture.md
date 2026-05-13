@@ -66,8 +66,8 @@ cards:
   - ddl: 2026-05-15
     title: 健康咨询志愿者招募
     detail: 紫金港校区古籍馆前，要求认真负责，服从安排，一旦录用不随意退出，根据实际时长计入志愿者小时数
-    href: https://v.wjx.cn/vm/ex3Ref6.aspx#   
-    tags:            
+    href: https://v.wjx.cn/vm/ex3Ref6.aspx#
+    tags:
       - text: 志愿者服务
         class: tag-category
 ---
