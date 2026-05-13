@@ -56,12 +56,20 @@ cards:
       - text: 思政微课大赛
         class: tag-category
 
-  - ddl: 2026-05-28    
-    title: 2026年度毕业晚会    
-    detail: 毕业晚会是展现风采、集体欢乐的机会，不要求高质量，只是为了满足大家登上舞台的心愿！欢迎大家报名节目，或者有兴趣参与导演组、主持人、礼仪的同学也欢迎报名哦！    
+  - ddl: 2026-05-28
+    title: 2026年度毕业晚会
+    detail: 毕业晚会是展现风采、集体欢乐的机会，不要求高质量，只是为了满足大家登上舞台的心愿！欢迎大家报名节目，或者有兴趣参与导演组、主持人、礼仪的同学也欢迎报名哦！
     href:  https://mp.weixin.qq.com/s/Ybhd7bh0sE5b0pXOF2ftMg
-    tags:      
-      - text: 毕业晚会        
+    tags:
+      - text: 毕业晚会
+        class: tag-category
+
+  - ddl: 2026-05-15
+    title: 健康咨询志愿者招募
+    detail: 紫金港校区古籍馆前，要求认真负责，服从安排，一旦录用不随意退出，根据实际时长计入志愿者小时数
+    href: https://v.wjx.cn/vm/ex3Ref6.aspx#
+    tags:
+      - text: 志愿者服务
         class: tag-category
 ---
 
