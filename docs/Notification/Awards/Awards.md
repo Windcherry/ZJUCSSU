@@ -144,6 +144,13 @@ cards:
     tags: 
       - text: 校园明星
         class: tag-category
+  - ddl: 2026-05-14
+    title: 关于评选2026年浙江大学“勤工助学之星”“勤工助学优秀团队”的通知
+    detail: 如有意向申报“勤工助学之星”的同学请于【5月14日，今天！】将附件1的事迹材料、附件4的汇总表【发送至邮箱0025728@zju.edu.cn】，邮件命名：姓名+勤工助学之星
+    href: http://www.xgb.zju.edu.cn/2026/0428/c53414a3156566/page.psp
+    tags: 
+      - text: 勤工助学
+        class: tag-category
 ---
 
 !!! note 通知

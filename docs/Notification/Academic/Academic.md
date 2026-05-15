@@ -43,7 +43,14 @@ cards:
       - text: 选课
         class: tag-category
       - text: 重要
-        class: tag-priority          
+        class: tag-priority  
+  - ddl: 2026-05-14
+    title: 关于公示2025-2026学年春夏学期毕业生体育锻炼学院部分计次的通知
+    detail: 根据学院体育锻炼计次相关规定，汇总各俱乐部日常训练次数、学院体育活动次数、校级体育竞赛（学院代表队）参赛及获奖情况，经学院学生会体育部审核，现公示学院2025-2026学年春夏学期毕业生课外锻炼计次结果，请相关同学核对，如有异议按照通知内容反馈。
+    href: http://cspo.zju.edu.cn/2026/0514/c86671a3162586/page.htm
+    tags: 
+      - text: 选课
+        class: tag-category        
 ---
 
 !!! note 通知

@@ -43,11 +43,11 @@ cards:
       - text: 西部计划宣讲会
         class: tag-target、
   - ddl: 2026-04-24
-    title: 某部委人才选拔
-    detail: 各位同学好！某部委面向我院相关专业2027届本科生或硕士研究生提前选拔相关人才，有意向报名的同学请于4月24日中午12点前填写问卷
-    href: https://jsj.top/f/VQSFOW 
+    title: 港澳台大学生暑期实习活动
+    detail: 为让港澳台学生体验职场，了解浙江省经济和社会发展现状，探索自我能力和价值，实现个人成长发展，中国科协和教育部共同主办港澳台大学生暑期实习活动。活动从2026年6月开始至8月结束，为期5周左右，诚邀港澳台同学参加。
+    href: https://mp.weixin.qq.com/s/md8HmOr2dwlC3FhSnbKwZg
     tags:
-      - text: 就业
+      - text: 实习
         class: tag-target
 ---
 
