@@ -217,6 +217,13 @@ cards:
     tags:
       - text: 心理
         class: tag-category
+  - ddl: 2026-05-24
+    title: 第十七届“校园明星”公开评选会
+    detail: 学院计划于2026年5月24日（下周日）下午15:00于紫金港校区蒙民伟楼举行第十七届“校园明星”公开评选会，现面向各年级分别招募50名学生代表，学生代表届时可以参与投票评选，现场签到签退视为一次形策2。
+    href: https://form.zju.edu.cn/#/dform/genericForm/t4uHn2Nt
+    tags:
+      - text: 形策2
+        class: tag-category
 ---
 
 !!! note 通知
