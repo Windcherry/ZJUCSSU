@@ -217,6 +217,13 @@ cards:
     tags:
       - text: 心理
         class: tag-category
+  - ddl: 2026-05-22
+    title: 第九届校史文化节“承求是精神 启奋进征程”校史知识竞赛决赛
+    detail: 第九届校史文化节“承求是精神 启奋进征程”校史知识竞赛决赛2026年5月22日18:30在紫金港校区临水报告厅进行，现场观摩比赛可计入一次形策2。报名链接请点击右侧箭头。
+    href: https://form.zju.edu.cn/#/dform/genericForm/wYTYUzfh
+    tags: 
+      - text: 形策2
+        class: tag-category
 ---
 
 !!! note 通知

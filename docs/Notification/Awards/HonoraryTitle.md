@@ -8,7 +8,6 @@ cards:
       - text: 志愿者
         class: tag-category
 
-cards:
   - ddl: 2025-12-03
     title: 星级志愿者评定校级初查结果
     detail: 关于公示2025-2026学年秋冬学期星级志愿者评定校级初查结果的通知
@@ -19,7 +18,6 @@ cards:
       - text: 本科生
         class: tag-target
 
-cards:
   - ddl: 2025-12-24
     title: 秋冬学期星级志愿者名单
     detail: 关于公示浙江大学2025-2026学年秋冬学期星级志愿者名单的通知
@@ -30,7 +28,6 @@ cards:
       - text: 志愿者
         class: tag-category
 
-cards:
   - ddl: 2026-03-11
     title: 2026届优秀本科毕业生拟评选名单
     detail: 【本科评奖评优】计算机学院关于2026届优秀本科毕业生（含校级、省级）拟评选名单的公示
@@ -40,6 +37,15 @@ cards:
         class: tag-category
       - text: 2022
         class: tag-target
+  
+  - ddl: 
+    title: 2025-2026学年春夏学期星级志愿者评定校级初查结果公示
+    detail: 反馈存疑的同学会有学院青志部同学联系，请及时按要求修改。详情请点击右侧链接
+    href: http://cspo.zju.edu.cn/2026/0511/c27178a3160899/page.htm
+    tags:
+      - text: 志愿者
+        class: tag-category
+
 ---
 
 
