@@ -97,6 +97,13 @@ cards:
     tags:
       - text: 体测
         class: tag-category
+  - ddl: 2026-05-25
+    title: “求是大讲堂”通识课程第26讲报名
+    detail: “求是大讲堂”通识课程第26讲报名 | 中车首席科学家冯江华讲座“与中国高铁同行”，在这里再宣传一下，欢迎同学们积极报名
+    href: https://mp.weixin.qq.com/s/ZwOPEVMjNK7rWZHplj42JA?from=singlemessage&isappinstalled=0&scene=1&clicktime=1779441845&enterid=1779441845
+    tags:
+      - text: 求是大讲堂
+        class: tag-category
 ---
 
 !!! note 通知
