@@ -6,6 +6,12 @@ cards:
     href: https://mp.weixin.qq.com/s/SaJfWt9-aQBlB21a1hQcog
     tags:
       - text: 美育二课
+        class: tag-category  
+  - ddl: 2026-05-19
+    title: 浙江大学 2026 年“三好杯”高尔夫比赛
+    detail: 比赛将于 5 月 23 日至 24 日举行，地点为紫金港校区安中室外高尔夫球场及室内高尔夫模拟器球馆。学院现组织计算机学院参赛队伍，欢迎对高尔夫运动感兴趣的同学积极报名参加。请有意向报名的同学于 5 月 19 日中午12点前加入报名群填写报名信息，具体赛事安排及后续通知将在相关群内发布。
+    tags:
+      - text: 体育赛事
         class: tag-category
   
 ---

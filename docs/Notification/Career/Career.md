@@ -41,7 +41,7 @@ cards:
       - text: 2022级
         class: tag-target
       - text: 西部计划宣讲会
-        class: tag-target、
+        class: tag-target
   - ddl: 2026-04-24
     title: 港澳台大学生暑期实习活动
     detail: 为让港澳台学生体验职场，了解浙江省经济和社会发展现状，探索自我能力和价值，实现个人成长发展，中国科协和教育部共同主办港澳台大学生暑期实习活动。活动从2026年6月开始至8月结束，为期5周左右，诚邀港澳台同学参加。
@@ -49,6 +49,13 @@ cards:
     tags:
       - text: 实习
         class: tag-target
+  - ddl: 2026-05-19
+    title: 熔金沙龙选调交流座谈会
+    detail: 为帮助同学们深入了解选调生发展路径、体制内就业方向与职场成长经验，计划举办熔金沙龙选调交流座谈会，特邀三位优秀学长学姐现场分享经验、答疑解惑。活动时间为 5 月 19 日 晚上 19:00，活动地点为玉泉校区曹光彪主楼 142，报名问卷请点击右侧链接。
+    href: https://jsj.top/f/s6gqKO
+    tags:
+      - text: 选调
+        class: tag-category
 ---
 
 !!! note 通知

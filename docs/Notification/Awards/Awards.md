@@ -151,6 +151,22 @@ cards:
     tags: 
       - text: 勤工助学
         class: tag-category
+  - ddl: 2026-05-13
+    title: 关于做好2026-2027学年第一批学费补助工作的通知
+    detail: 符合条件且有需要的同学请在【5月13日前在eta申请】，详情见右侧链接
+    href: http://www.xgb.zju.edu.cn/2026/0501/c53018a3158235/page.psp
+    tags: 
+      - text: 助学金
+        class: tag-category
+  - ddl: 2026-08-20
+    title: 关于做好2026年毕业生基层就业学费补偿和国家助学贷款代偿申请的通知
+    detail: 具体通知内容请点击右侧链接
+    href: http://www.xgb.zju.edu.cn/2026/0515/c53400a3163173/page.psp
+    tags: 
+      - text: 学生资助
+        class: tag-category
+      - text: 2022级
+        class: tag-target
 ---
 
 !!! note 通知
